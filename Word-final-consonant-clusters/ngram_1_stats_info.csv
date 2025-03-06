@@ -1,0 +1,2 @@
+use_case,only_true_ngrams,ngram_size,open_slots,float_precision,min_freq,min_range,search_query,search_with_words,search_with_case,search_with_regex
+,0,1,0,3,1,1,.*[bcçdfghjklmnprsştvyz][bcçdfghjklmnprsştvyz]$,1,1,1
